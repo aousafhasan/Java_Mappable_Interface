@@ -23,7 +23,7 @@ public class Main {
         List<Mappable> mappables = new ArrayList<>();
         mappables.add(new Building("Sydney Town Hall", UsageType.GOVERNMENT));
         mappables.add(new Building("Sydney Opera House", UsageType.ENTERTAINMENT));
-        
+
         mappables.add(new UtilityLine("College St", UtilityType.FIBER_OPTIC));
         mappables.add(new UtilityLine("Olympic Blvd", UtilityType.WATER));
 
